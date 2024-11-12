@@ -1,5 +1,3 @@
-# python_telegram_bot
-
 # Telegram bot на python
 ### Описание проекта
 Telegram bot - имеет панель управления, отвечает на некоторые вопросы вопросы, 
